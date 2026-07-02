@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "skills": {
+    "ai-sdk": {
+      "source": "vercel/ai",
+      "sourceType": "github",
+      "skillPath": "skills/use-ai-sdk/SKILL.md",
+      "computedHash": "2249889eb47ef0f61c4dba4cf2afe01c1c8dd793bb4c24230347c1ab909bb7dd"
+    },
+    "gemini-api": {
+      "source": "google/skills",
+      "sourceType": "github",
+      "skillPath": "skills/cloud/gemini-api/SKILL.md",
+      "computedHash": "d760b7f8b783fc2cc3ab72b8286c46617cbca38569377a8ad018925e0d53620f"
+    },
+    "langchain-rag": {
+      "source": "langchain-ai/langchain-skills",
+      "sourceType": "github",
+      "skillPath": "config/skills/langchain-rag/SKILL.md",
+      "computedHash": "53fa807b2094c4ee9136ff23a9330321c1a22959870e4a1f7bd53b753b623f94"
+    },
+    "mimo-v2-5-tts": {
+      "source": "xiaomimimo/mimo-skills",
+      "sourceType": "github",
+      "skillPath": "skills/mimo-v2-5-tts/SKILL.md",
+      "computedHash": "696dae25ba1ca805bafe7f2099fe9c6b9428797dd736d017fc0568b431f04756"
+    }
+  }
+}
